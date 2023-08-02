@@ -4,7 +4,7 @@
 -- Forum: https://www.reddit.com/r/lunarvim/
 -- Discord: https://discord.com/invite/Xb9B4Ny
 lvim.plugins = { "windwp/nvim-ts-autotag", "nvim-neotest/neotest", "haydenmeade/neotest-jest",
-  "marko-cerovac/material.nvim" }
+  "marko-cerovac/material.nvim", "sunjon/shade.nvim" }
 
 reload("user.options")
 reload("user.theme")
