@@ -9,3 +9,5 @@ lvim.plugins = { "windwp/nvim-ts-autotag", "nvim-neotest/neotest", "haydenmeade/
 reload("user.options")
 reload("user.theme")
 reload("user.lsp")
+reload("user.fold")
+reload("user.test")
